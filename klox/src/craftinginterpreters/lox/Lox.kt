@@ -60,5 +60,4 @@ object Lox {
         hadError = true
     }
 
-    
 }
