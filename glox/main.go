@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"lox"
+	"glox/lox"
 )
 
 func main() {
-fmt.Println("omar")
+	fmt.Println("omar")
 }
 
