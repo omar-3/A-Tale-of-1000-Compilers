@@ -19,7 +19,7 @@ private object AstPrinter : Expr.Visitor<String> {
     }
 
     private fun print(expr : Expr) : String = expr.accept(this)
-    
+
     override fun visitBinaryExpr(expr: Expr.Binary): String =
         parenthesize(expr.operator.lexeme, expr.left, expr.right)
 
