@@ -61,5 +61,3 @@ func run(source string) {
 		fmt.Printf("%#v\n", token)
 	}
 }
-
-

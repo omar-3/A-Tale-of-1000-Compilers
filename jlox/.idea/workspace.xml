@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8fa4166-51c3-45ca-857f-f068b94e3cb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/A-Tale-of-1000-Compilers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../glox/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../glox/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/META-INF/jlox.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/craftinginterpreters/lox/TokenType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/craftinginterpreters/lox/TokenType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/craftinginterpreters/tools/GenerateAst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/craftinginterpreters/lox/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/craftinginterpreters/lox/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/craftinginterpreters/tools/GenerateAst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Binary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Grouping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Grouping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Literal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Literal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Unary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Unary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr$Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Expr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt$Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt$Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt$Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt$Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt$Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/Stmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/tool/GenerateAst.class" beforeDir="false" afterPath="$PROJECT_DIR$/../klox/out/production/klox/craftinginterpreters/lox/tool/GenerateAst.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iQ8SPiAiaSgCfIoXJbajyWTwPR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="craftinginterpreters.lox.Lox" />
+      <module name="jlox" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8fa4166-51c3-45ca-857f-f068b94e3cb0" name="Default Changelist" comment="" />
+      <created>1601828459468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601828459468</updated>
+      <workItem from="1601828467081" duration="597000" />
+      <workItem from="1601829534324" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="172" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601828736686">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="304" y="172" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1601828736686" />
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom" timestamp="1601829064341">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1601829064341" />
+    <state width="1638" height="263" key="GridCell.Tab.0.center" timestamp="1601829064341">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1601829064341" />
+    <state width="1638" height="263" key="GridCell.Tab.0.left" timestamp="1601829064341">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1601829064341" />
+    <state width="1638" height="263" key="GridCell.Tab.0.right" timestamp="1601829064341">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1638" height="263" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1601829064341" />
+  </component>
+</project>
