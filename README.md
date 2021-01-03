@@ -24,9 +24,12 @@ This repository is meant for documenting and logging what I'm studying/reading/d
 
 8. [decaf](https://parasol.tamu.edu/courses/decaf/students/)
 
+
 ## Transpilers
 
 1. [antlr](https://www.amazon.com/Definitive-ANTLR-4-Reference/dp/1934356999/ref=sr_1_1?dchild=1&keywords=antlr&qid=1599877027&sr=8-1)
+
+2. [C to scheme](https://github.com/petermichaux/bootstrap-scheme)
 
 ## Grammar
 
