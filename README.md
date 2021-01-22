@@ -24,6 +24,8 @@ This repository is meant for documenting and logging what I'm studying/reading/d
 
 8. [decaf](https://parasol.tamu.edu/courses/decaf/students/)
 
+9. [pascal compiler](https://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering/dp/0470177071/ref=sr_1_1?crid=RGFO35U4BF2I&dchild=1&keywords=writing+compilers+and+interpreters+a+software+engineering+approach&qid=1611303568&sprefix=writing+compiler%2Caps%2C309&sr=8-1)
+
 
 ## Transpilers
 
